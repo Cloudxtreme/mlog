@@ -1,0 +1,10 @@
+/usr/local/squid/logs/access.log
+/usr/local/squid/logs/cache.log
+/usr/local/squid/logs/store.log
+/var/log/all.color
+/var/log/all.log
+/var/log/httpd-access.log
+/var/log/httpd-error.log
+/var/log/ipmon
+/var/log/log.nmbd
+/var/log/log.smbd
